@@ -1,2 +1,2 @@
 # android
-Small RSS reader developped few month ago
+Simple RSS reader developped few month ago
